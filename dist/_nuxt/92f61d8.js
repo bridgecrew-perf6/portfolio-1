@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[21],{473:function(e,n,t){"use strict";t.r(n);var c={},o=t(60),component=Object(o.a)(c,(function(){var e=this,n=e.$createElement,t=e._self._c||n;return t("div",{staticClass:"pt-16"},[e._v("hola\n\n    "),t("div",[t("ColorModePicker")],1)])}),[],!1,null,"3a0cfa68",null);n.default=component.exports}}]);

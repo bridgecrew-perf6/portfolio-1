@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/la_vie", {data:[{}],fetch:{},mutations:void 0});
